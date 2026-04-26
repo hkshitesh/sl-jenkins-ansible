@@ -1,7 +1,6 @@
 ---
 - name: Install Apache Web Server
   hosts: webservers
-  become: yes
 
   tasks:
 
